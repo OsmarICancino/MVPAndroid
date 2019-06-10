@@ -1,4 +1,4 @@
 # MVPAndroid
 Android project built using MVP Architecture 
-
-https://github.com/OsmarICancino/MVPAndroid/blob/master/app/app.png
+ <img alt="Follow me on Google+"
+       src="https://github.com/OsmarICancino/MVPAndroid/blob/master/app/app.png" />
